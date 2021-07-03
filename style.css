@@ -21,3 +21,12 @@ h1{
 .web{
     color: #0712ad;
 }
+
+.blogg{
+    height: 350px;
+    width: 30%;
+    margin: 3px;
+    padding: 10px;
+    padding: 10px;
+    border: 2px solid rgb(235, 231, 231);
+}
