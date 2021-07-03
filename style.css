@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: #0712ad;
+}
+
+.blog{
+    background-color: white;
+    height: 250px;
+    width: 30%;
+    margin: 3px;
+    padding: 10px;
+    border: 2px solid rgb(235, 231, 231);
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.ht{
+    color: darkblue;
+}
+
+.web{
+    color: #0712ad;
+}
